@@ -15,11 +15,17 @@ After installation you need to configure a local Nginx server.
 
 # Workflow
 ![alt text](https://github.com/ibrahimba9/sentiment_analysis_elk/blob/main/Screenshots/workflow.PNG)
+
 1- Scraping data frow twitter
+
 2- Analysisng sentiments with Textblob 
+
 3- Data Engineering
+
 4- Connecting with Elasticsearch
+
 5- Visualizing the results on Kibana
+
 
 # Logstash Configuration
 In the Inuput section of the logstash file, we need to insert your twitter API credentials (consumer_key, oauth token, ...).
