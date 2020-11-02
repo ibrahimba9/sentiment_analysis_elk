@@ -46,3 +46,16 @@ You can check kibana to see the data collected on real time.
 ![alt text](https://github.com/ibrahimba9/sentiment_analysis_elk/blob/main/Screenshots/Screenshot%20from%202020-05-25%2003-32-06.png)
 In my case I used Kibana to generate a Piechart and a Barplot to visualise the number of Positive, Negative and Neutral Sentiments of the collected tweets
 ![alt text](https://github.com/ibrahimba9/sentiment_analysis_elk/blob/main/Screenshots/Screenshot%20from%202020-05-25%2003-31-33.png)
+
+# References & inspirations:
+### Installing and Configuring the tools:
+https://linuxconfig.org/install-elk-on-ubuntu-18-04-bionic-beaver-linux
+https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-andkibana-elk-stack-on-ubuntu-14-04
+
+### Sentiment Analysis and ELK Integration :
+https://github.com/Ziyu0/twitter-sentiment-analysis-using-ELK-stack-andpython/blob/945b3ee3178f8abfffb15f3af6643722e90ba795/tools/tweet_listener.py#L11
+https://github.com/melvynator/ELK_twitter
+https://www.slideshare.net/hypto/machine-learning-in-a-twitter-etl-using-elk
+https://github.com/melvynator/Logstash_tutorial
+https://github.com/melvynator/toy_sentiment_API
+https://www.elastic.co/guide/index.html
