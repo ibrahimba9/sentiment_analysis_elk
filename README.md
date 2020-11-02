@@ -11,6 +11,7 @@ you need to install and configure the following tools:
 - Elasticsearch
 - Kibana
 - Logstash
+
 After installation you need to configure a local Nginx server.
 
 # Workflow
