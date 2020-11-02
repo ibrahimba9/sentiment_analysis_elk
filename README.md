@@ -1,4 +1,4 @@
-# sentiment_analysis_elk
+# Pipeline: Sentiment Analysis with Python and ELK suite
 Tweet Sentiment Analysis with ELK and Python
 
 # Introduction
